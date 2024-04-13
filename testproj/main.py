@@ -13,10 +13,10 @@ import os
 def password_gen(passwd_size):
     
     password = ""
-    special_chars ="!@#$%^&*()-_=+[]{}~?<>"
-    lower_case = "qwertyuiopasdfghjklzxcvbnm"
-    upper_case = "QWERTYUIOPASDFGHJKLZXCVBNM"
-    nums ="1234567890"
+    special_chars = "!@#$%^&*()-_=+[]{}~?<>"
+    lower_case    = "qwertyuiopasdfghjklzxcvbnm"
+    upper_case    = "QWERTYUIOPASDFGHJKLZXCVBNM"
+    nums          = "1234567890"
     count =0
 
     while count <= passwd_size:
@@ -28,9 +28,7 @@ def password_gen(passwd_size):
         count = count +1
 
     password = password[:passwd_size]
-    
     print("Generated Password: "+ password)
-
 
 #definition of one of our mini games
 def hi_low_game():
@@ -88,7 +86,6 @@ def interface():
 
 #main function for the application
 def main():
-    print("Hi Low GAME!!!!")
     interface()
 
 if __name__ == "__main__":
