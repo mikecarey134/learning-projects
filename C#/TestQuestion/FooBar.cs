@@ -29,6 +29,11 @@ namespace Application
             Foo foo = new("foo");
             Bar bar = new("bar");
             Console.WriteLine(foo.GetName() + bar.GetName());
+
+            Console.WriteLine(CustomCode.VersionCompare("2","2.0.0.0.1"));
+            Console.WriteLine(CustomCode.VersionCompare("2","2.0.0.0"));
+            Console.WriteLine(CustomCode.VersionCompare("2.0.1","1.2000.1"));
+
         }
     }
 
