@@ -1,0 +1,15 @@
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/bin/Debug/net8.0/TestQuestion
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/bin/Debug/net8.0/TestQuestion.deps.json
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/bin/Debug/net8.0/TestQuestion.runtimeconfig.json
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/bin/Debug/net8.0/TestQuestion.dll
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/bin/Debug/net8.0/TestQuestion.pdb
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.AssemblyInfoInputs.cache
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.AssemblyInfo.cs
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.csproj.CoreCompileInputs.cache
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.sourcelink.json
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.dll
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/refint/TestQuestion.dll
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.pdb
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/TestQuestion.genruntimeconfig.cache
+/home/michael/Documents/Repos/python-projects/C#/TestQuestion/obj/Debug/net8.0/ref/TestQuestion.dll
