@@ -1,1 +1,1 @@
-docker build -t valheim . 
+docker build -t valheim .
